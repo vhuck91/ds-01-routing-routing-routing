@@ -8,7 +8,7 @@ Let's setup a simple API:
 * Provide a success message that the server started up
 * Define an array with the DCI course modules at the top of the file:
     ['HTML/CSS', 'JavaScript', 'DOM', 'NodeJS', 'React', 'Data Server', 'Fullstack Server', 'Final Project']
-* Setup two routes
+* Setup one route
     * Route /json: Send the whole array as JSON to the browser
 
 Start the server on port 5000
